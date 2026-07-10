@@ -1,3 +1,5 @@
+> **[scout]** 本 fork 已被 ~/workspace/my-tools/scout 完全替代（引擎已 vendor 进 scout，2026-07-10）。仅作上游追踪参考源：fetch upstream → diff → 按 scout-vendor 头注释移植。不再直接运行。
+
 <p align="center">
   <img src="assets/banner.jpg" alt="last30days-cn — 中国平台深度研究引擎" width="380">
 </p>
